@@ -1,5 +1,6 @@
-#include<iostream>
 using namespace std;
+#include<iostream>
+
 int main()
 {
     int max;
@@ -10,7 +11,7 @@ int main()
     for(int x=0;x<max;x++)
     {
         cin>>arr[x];
-    }
+    }// hello
     for(int i=0;i<max-1;i++)
     {
         
